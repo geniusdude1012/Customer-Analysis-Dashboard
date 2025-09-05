@@ -11,4 +11,5 @@ Interactive tableau design to analyze customers purchasing patterns and churn ra
 - Revenue per Category per Gender
 - Build the Dashboard
 ## Dashbord screenshot
-<a href="https://github.com/geniusdude1012/Customer-Analysis-Dashboard/blob/main/compressed_data.csv.gz">Dashbord Image</a>
+<img width="1137" height="579" alt="Screenshot 2025-09-05 152628" src="https://github.com/user-attachments/assets/1cf978db-4e3b-4ab6-af66-b40e3363eca0" />
+
